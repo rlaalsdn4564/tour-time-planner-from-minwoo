@@ -1,14 +1,14 @@
 # Tour Time Planner - Timeline Scheduler
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen?style=for-the-badge&logo=github)](https://minwoo19930301.github.io/tour-time-planner/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen?style=for-the-badge&logo=github)](https://rlaalsdn4564.github.io/tour-time-planner-from-minwoo/)
 
 
 시간표 형태로 여행 일정을 짜고, 링크 하나로 그대로 공유할 수 있는 정적 웹앱입니다. 모바일 터치 편집과 드래그 이동까지 지원해서 여행 일정표를 빠르게 정리하기 좋습니다.
 
 ## 링크
 
-- 서비스: [Tour Time Planner](https://minwoo19930301.github.io/tour-time-planner/)
-- GitHub: [minwoo19930301/tour-time-planner](https://github.com/minwoo19930301/tour-time-planner)
+- 서비스: [Tour Time Planner](https://rlaalsdn4564.github.io/tour-time-planner-from-minwoo/)
+- GitHub: [rlaalsdn4564/tour-time-planner-from-minwoo](https://github.com/rlaalsdn4564/tour-time-planner-from-minwoo)
 
 ## 주요 기능
 
@@ -43,7 +43,7 @@ python3 -m http.server 4173 --bind 127.0.0.1 --directory "/Users/minwokim/Docume
 
 ## 배포
 
-- GitHub Pages: [https://minwoo19930301.github.io/tour-time-planner/](https://minwoo19930301.github.io/tour-time-planner/)
+- GitHub Pages: [https://rlaalsdn4564.github.io/tour-time-planner-from-minwoo/](https://rlaalsdn4564.github.io/tour-time-planner-from-minwoo/)
 - 별도 빌드 과정 없이 정적 파일 배포
 
 ## 구현 메모 및 서브 상세 설명서
